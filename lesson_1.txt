@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!-- saved from url=(0086)https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/e-2960778927/m-2972528780 -->
-<html data-ng-app="page.viewer" data-enforce-browser="" class="ng-scope"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script id="twitter-wjs" src="./game_old_files/widgets.js"></script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+<!-- saved from url=(0073)https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-2997518619 -->
+<html data-ng-app="page.viewer" data-enforce-browser="" class="ng-scope"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script id="twitter-wjs" src="./lesson_1_files/widgets.js"></script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
 	<!--[if lte IE 9]>
 	<script type="text/javascript">
 		if (window.location.pathname != '/' && window.location.pathname != '/upgrade') {
@@ -61,22 +61,22 @@
 	<link type="text/plain" rel="author" href="http://udacity.com/humans.txt">
 
 	
-		<link rel="stylesheet" type="text/css" href="./game_old_files/udacity.min.css">
+		<link rel="stylesheet" type="text/css" href="./lesson_1_files/udacity.min.css">
 
 	
 
 
-	<script type="text/javascript" id="www-widgetapi-script" src="./game_old_files/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="./game_old_files/munchkin.js"></script><script type="text/javascript" async="" src="./game_old_files/bHt.js"></script><script type="text/javascript" async="" src="./game_old_files/analytics.js"></script><script src="./game_old_files/iframe_api"></script><script type="text/javascript" async="" src="./game_old_files/dc.js"></script><script async="" src="./game_old_files/gtm.js"></script><script type="text/javascript">
+	<script type="text/javascript" id="www-widgetapi-script" src="./lesson_1_files/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="./lesson_1_files/munchkin.js"></script><script type="text/javascript" async="" src="./lesson_1_files/bHt.js"></script><script type="text/javascript" async="" src="./lesson_1_files/analytics.js"></script><script src="./lesson_1_files/iframe_api"></script><script type="text/javascript" async="" src="./lesson_1_files/dc.js"></script><script async="" src="./lesson_1_files/gtm.js"></script><script type="text/javascript">
 		window.account = {"first_name": "\u041c\u0430\u0441\u044f\u043a\u0438\u043d", "last_name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439", "external_service_password": "aJgAFzE9I4mphvucVqlLkuZ4a0hXPSu8WUTkpKlh2Q2G5A8l8nFGacForVuMRIsUfz6TGlUwywFkLzLYMcO1QjRFcMC5PeGQEe0O", "tags": [], "_registered": true, "email": {"_verification_code_sent": true, "_verified": false, "address": "dimasyakin@gmail.com"}, "jabber_id": "\u041c\u0430\u0441\u044f\u043a\u0438\u043d-axqfA@udacity.com", "key": "3949878561", "_image_url": "//robohash.org/udacity-3949878561.png", "nickname": "\u041c\u0430\u0441\u044f\u043a\u0438\u043d", "_enrollments": [{"milestones": [], "node_key": "ud804", "group_refs": [], "state": "enrolled", "first_paid_enrollment_time": null, "email_ok": true, "previous_states": []}, {"milestones": [], "node_key": "ud775", "group_refs": [], "state": "enrolled", "first_paid_enrollment_time": null, "email_ok": true, "previous_states": []}], "site_preferences": null};
 	</script>
 
-		<script src="./game_old_files/jquery-1.10.2.min.js"></script>
+		<script src="./lesson_1_files/jquery-1.10.2.min.js"></script>
 		<script type="text/javascript">
 			if (typeof jQuery === 'undefined') {
 				document.write(unescape("%3Cscript src='/media/js/standalone/libs/jquery-1.10.2.min.js'%3E%3C/script%3E"));
 			}
 		</script>
-	<script type="text/javascript" src="./game_old_files/raygun.js"></script>
+	<script type="text/javascript" src="./lesson_1_files/raygun.js"></script>
 	<script>
 		try{  //Just in case Raygun's internal API breaks.
 			(function(){
@@ -111,7 +111,7 @@
 		}catch(err){} // Eat any Raygun errors.
 	</script>
 
-	<script src="./game_old_files/655050218.js"></script>
+	<script src="./lesson_1_files/655050218.js"></script>
 
 	
 	<!-- This is a dirty hack to target IE9 and 10+ because they don't handle table cell height well.-->
@@ -135,7 +135,7 @@
 	<![endif]-->
 	<!-- End of dirty IE hacks -->
 
-<script type="text/javascript" async="" src="./game_old_files/munchkin(1).js"></script><style type="text/css"></style><style type="text/css">/*.lleo_errorSelection *::-moz-selection,
+<script type="text/javascript" async="" src="./lesson_1_files/munchkin(1).js"></script><style type="text/css"></style><style type="text/css">/*.lleo_errorSelection *::-moz-selection,
 .lleo_errorSelection *::selection,
 .lleo_errorSelection *::-webkit-selection {
     background-color: red !important;
@@ -687,10 +687,10 @@
 .en-markup-crop-options div div:first-of-type {
     margin-left: 0px !important;
 }
-</style><style type="text/css" id="ki-y6s-y4"></style><style type="text/css" id="ki-y6s-y7"></style><script async="true" type="text/javascript" src="./game_old_files/roundtrip.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
+</style><style type="text/css" id="ki-y6s-y4"></style><style type="text/css" id="ki-y6s-y7"></style><script async="true" type="text/javascript" src="./lesson_1_files/roundtrip.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
-<body data-ng-controller="siteFrame" data-modal-anti-scroll-helper="" data-ng-class="{&#39;responsive&#39;: responsivenessIsEnabled, &#39;non-responsive&#39;: !responsivenessIsEnabled, &#39;modal-open&#39;: isModalActive()}" style="" class="ng-scope non-responsive" data-pinterest-extension-installed="cr1.35" data-twttr-rendered="true"><iframe id="twttrHubFrameSecure" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" name="twttrHubFrameSecure" src="./game_old_files/hub.0e7931819b6cfb483aa5ddbe7670a1c6.html" style="position: absolute; top: -9999em; width: 10px; height: 10px;"></iframe>
+<body data-ng-controller="siteFrame" data-modal-anti-scroll-helper="" data-ng-class="{&#39;responsive&#39;: responsivenessIsEnabled, &#39;non-responsive&#39;: !responsivenessIsEnabled, &#39;modal-open&#39;: isModalActive()}" style="" class="ng-scope non-responsive" data-pinterest-extension-installed="cr1.35" data-twttr-rendered="true"><iframe id="twttrHubFrameSecure" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" name="twttrHubFrameSecure" src="./lesson_1_files/hub.0e7931819b6cfb483aa5ddbe7670a1c6.html" style="position: absolute; top: -9999em; width: 10px; height: 10px;"></iframe>
 
 
 	<script>
@@ -739,7 +739,7 @@
 					
 						<a itemprop="brand" itemscope="" itemtype="http://schema.org/Brand" class="logo navbar-brand" href="https://www.udacity.com/" id="header-logo">
 							<meta itemprop="logo" content="https://lh6.ggpht.com/pXxnDpPZHXnKqBqwvI4cmhsztuM23lbmy0o5zVEZTfXQR69u5Nlx7hfxcCOGZP_Yp_3HwpK3zVAtXejMAg=s0">
-							<img alt="Udacity Logo" src="./game_old_files/LUgsz3XTdD-dW9qCenNcFZWaBKM6At_MbMjODMCJOC8ZoR4hIm_rVBQghBmk5kQ-kRa66yhEQT0BH88gUmwX=s85" srcset="//lh4.ggpht.com/LUgsz3XTdD-dW9qCenNcFZWaBKM6At_MbMjODMCJOC8ZoR4hIm_rVBQghBmk5kQ-kRa66yhEQT0BH88gUmwX=s170 2x" style="width:85px;">
+							<img alt="Udacity Logo" src="./lesson_1_files/LUgsz3XTdD-dW9qCenNcFZWaBKM6At_MbMjODMCJOC8ZoR4hIm_rVBQghBmk5kQ-kRa66yhEQT0BH88gUmwX=s85" srcset="//lh4.ggpht.com/LUgsz3XTdD-dW9qCenNcFZWaBKM6At_MbMjODMCJOC8ZoR4hIm_rVBQghBmk5kQ-kRa66yhEQT0BH88gUmwX=s170 2x" style="width:85px;">
 						</a>
 					
 				</div>
@@ -756,7 +756,7 @@
 									My Courses<b class="caret"></b>
 								</a>
 								<ul class="dropdown-menu dropdown-menu-scrollable dropdown-menu-scrollable-max my-courses-dropdown">
-									<li class="dropdown-menu-loading ng-hide" data-ng-show="loading"><img src="./game_old_files/tp_loading.gif"></li>
+									<li class="dropdown-menu-loading ng-hide" data-ng-show="loading"><img src="./lesson_1_files/tp_loading.gif"></li>
 									<!-- ngIf: forPayEnrollments.length > 0 -->
 									<!-- ngRepeat: enrollment in forPayEnrollments -->
 									<!-- ngIf: forPayEnrollments.length > 0 && nonPayEnrollments.length > 0 -->
@@ -835,8 +835,8 @@
 
 <div class="ng-hide" data-group-chat="" data-ng-show="showGroupChat"><div class="chat">
 	<div data-chat-widget="" class="ng-hide" data-ng-click="toggleChat()" data-ng-show="showChatWidget()"><div class="chat-widget animate animate-bounce-in clickable">
-	<img data-ng-hide="notifications.hasUnreadMessages" src="./game_old_files/WidgetNormal.svg" width="65" height="65" class="">
-	<img data-ng-show="notifications.hasUnreadMessages" src="./game_old_files/WidgetUnread.svg" width="65" height="65" class="ng-hide">
+	<img data-ng-hide="notifications.hasUnreadMessages" src="./lesson_1_files/WidgetNormal.svg" width="65" height="65" class="">
+	<img data-ng-show="notifications.hasUnreadMessages" src="./lesson_1_files/WidgetUnread.svg" width="65" height="65" class="ng-hide">
 </div>
 </div>
 	<div data-chat-panel=""><div class="chat row data-ng-cloak" data-ng-show="showChat !== undefined">
@@ -962,7 +962,7 @@
 	<div data-intro-to-chat-modal=""><div class="intro-to-chat ng-scope" data-modal-dialog="introToChatModal"><div ng-show="isModalActive(name)" class="modal ng-hide"><div class="modal-backdrop"></div><div class="modal-dialog" data-ng-class="additionalClasses"><!-- ngIf: !disableClose --><span data-ng-if="!disableClose" class="ng-scope"><button type="button" aria-label="close" class="close hanging-close" data-ng-click="cornerClose({message:&#39;cornerClose&#39;})"></button></span><!-- end ngIf: !disableClose --><div class="modal-content col-xs-12">
 	<div class="modal-header ng-scope">
 		<div class="text-center">
-			<img src="./game_old_files/GroupIntroTop.svg" width="200" height="90" alt="">
+			<img src="./lesson_1_files/GroupIntroTop.svg" width="200" height="90" alt="">
 			<h2 class="text-center">Introducing Chat Groups</h2>
 		</div>
 	</div>
@@ -1004,7 +1004,7 @@
 			<div class="col-xs-12">
 				<div class="row">
 					<div class="col-xs-12 text-center">
-						<img src="./game_old_files/GroupIntroTopic.svg" height="100">
+						<img src="./lesson_1_files/GroupIntroTopic.svg" height="100">
 					</div>
 				</div>
 				<div class="row">
@@ -1266,7 +1266,7 @@
 	<div class="modal-header ng-scope">
 		<div class="row">
 			<div class="col-xs-12 text-center">
-				<img src="./game_old_files/GetStarted.svg" width="200" height="90" alt="">
+				<img src="./lesson_1_files/GetStarted.svg" width="200" height="90" alt="">
 			</div>
 		</div>
 	</div>
@@ -1388,7 +1388,7 @@
 				</p>
 			</div>
 			<div class="hidden-xs col-sm-4 text-align-center">
-				<img class="img-responsive" alt="Check mark on a lesson in a path of lessons" src="./game_old_files/y6SPDJFkkPSh3VjSWDnLjcepWoVybZcAVPTkomeX3BNbgVi-LZx36dq1Ci_BDz2SlWx-fkwtPZS5faxWTQQ=s198">
+				<img class="img-responsive" alt="Check mark on a lesson in a path of lessons" src="./lesson_1_files/y6SPDJFkkPSh3VjSWDnLjcepWoVybZcAVPTkomeX3BNbgVi-LZx36dq1Ci_BDz2SlWx-fkwtPZS5faxWTQQ=s198">
 			</div>
 		</div><!-- end ngIf: course['_semantic_type'] !== 'Degree' -->
 		<!-- Nanodegree -->
@@ -1418,7 +1418,7 @@
 		<!-- Course -->
 		<!-- ngIf: course['_semantic_type'] !== 'Degree' --><div class="row ng-scope" data-ng-if="course[&#39;_semantic_type&#39;] !== &#39;Degree&#39;">
 			<div class="col-xs-4 col-xs-push-4 col-sm-push-8 text-align-center">
-				<img class="img-responsive" alt="Space ship blasting off" src="./game_old_files/G-VNxbbq2TvqAaupYg215_cpDhytI6FNJZtG33zFnQM9i78XsbuT2TVpUe-KdrRaHii0H9KDNKF6Za3RARs=s198">
+				<img class="img-responsive" alt="Space ship blasting off" src="./lesson_1_files/G-VNxbbq2TvqAaupYg215_cpDhytI6FNJZtG33zFnQM9i78XsbuT2TVpUe-KdrRaHii0H9KDNKF6Za3RARs=s198">
 			</div>
 			<div class="col-xs-12 col-sm-8 col-sm-pull-4">
 				<!-- ngIf: getData().isPaidEnrolled -->
@@ -1557,7 +1557,7 @@
 				</p>
 			</div>
 			<div class="hidden-xs col-sm-4">
-				<img class="img-responsive" src="./game_old_files/WKHAg0cKAl6-dzViz2RWuKFObfO1izzXE-yhMSoPNRxB2pNIf5-RgM-ewPfGZ95_5Xd0hcjwDcg_XUX85Q=s159" alt="a symbol of learning">
+				<img class="img-responsive" src="./lesson_1_files/WKHAg0cKAl6-dzViz2RWuKFObfO1izzXE-yhMSoPNRxB2pNIf5-RgM-ewPfGZ95_5Xd0hcjwDcg_XUX85Q=s159" alt="a symbol of learning">
 			</div>
 		</div>
 	</div>
@@ -1571,7 +1571,7 @@
 
 			<div class="viewer-loading-overlay text-center ng-hide" data-ng-show="!lesson || isViewerLoading">
 				<div style="margin-top: 200px;">
-					<img src="./game_old_files/b3OandPWsUWAnRVS5d8JS8OL0nu8dU2d3NceS7p1yKhPl9KD4EhqeylPm7yFbft5wmsA2VCAZ-8wAkmFduXJ=s0">
+					<img src="./lesson_1_files/b3OandPWsUWAnRVS5d8JS8OL0nu8dU2d3NceS7p1yKhPl9KD4EhqeylPm7yFbft5wmsA2VCAZ-8wAkmFduXJ=s0">
 					<p class="text-center ng-binding">Contemplating banana bread recipes</p>
 				</div>
 			</div>
@@ -1597,7 +1597,7 @@
 							</ul>
 						</div>
 						<span class="text-muted" style="padding: 0 15px">&gt;</span>
-						<span class="ng-binding">Finding Diffs Between Larger Files Quiz</span>
+						<span class="ng-binding">Reflect: Using diff to Find Bugs</span>
 						<!-- ngIf: morsel._can_write -->
 
 
@@ -1629,21 +1629,21 @@
 									<span class="subway-nav-station-content text-break-word ng-binding">Differences Between Two Files</span>
 								</a>
 							</span>
-						</li><!-- end ngRepeat: morsel in morsels --><li data-node-key="2960778927" data-ng-repeat="morsel in morsels" class="subway-nav-station ng-scope  is-current is-viewed" data-ng-class="getStyleClassesForMorsel(morsel)" style="">
+						</li><!-- end ngRepeat: morsel in morsels --><li data-node-key="2960778927" data-ng-repeat="morsel in morsels" class="subway-nav-station ng-scope  is-viewed" data-ng-class="getStyleClassesForMorsel(morsel)">
 							<span>
 								<!-- ngIf: morsel.model=='Exercise' --><a href="" class="subway-nav-quiz ng-scope" data-ng-if="morsel.model==&#39;Exercise&#39;" data-ng-class="{&#39;is-complete&#39;: morsel.quiz_ref.completed}" data-ng-click="goToMorsel(morsel)">●</a><!-- end ngIf: morsel.model=='Exercise' -->
 								<a href="" class="subway-nav-video" data-ng-click="goToMorsel(morsel)">&nbsp;
 									<span class="subway-nav-station-content text-break-word ng-binding">Finding Diffs Between Larger Files</span>
 								</a>
 							</span>
-						</li><!-- end ngRepeat: morsel in morsels --><li data-node-key="2960778929" data-ng-repeat="morsel in morsels" class="subway-nav-station ng-scope" data-ng-class="getStyleClassesForMorsel(morsel)" style="">
+						</li><!-- end ngRepeat: morsel in morsels --><li data-node-key="2960778929" data-ng-repeat="morsel in morsels" class="subway-nav-station ng-scope  is-viewed" data-ng-class="getStyleClassesForMorsel(morsel)">
 							<span>
 								<!-- ngIf: morsel.model=='Exercise' -->
 								<a href="" class="subway-nav-video" data-ng-click="goToMorsel(morsel)">&nbsp;
 									<span class="subway-nav-station-content text-break-word ng-binding">Reflections</span>
 								</a>
 							</span>
-						</li><!-- end ngRepeat: morsel in morsels --><li data-node-key="2997518619" data-ng-repeat="morsel in morsels" class="subway-nav-station ng-scope" data-ng-class="getStyleClassesForMorsel(morsel)" style="">
+						</li><!-- end ngRepeat: morsel in morsels --><li data-node-key="2997518619" data-ng-repeat="morsel in morsels" class="subway-nav-station ng-scope is-viewed is-current" data-ng-class="getStyleClassesForMorsel(morsel)">
 							<span>
 								<!-- ngIf: morsel.model=='Exercise' -->
 								<a href="" class="subway-nav-video" data-ng-click="goToMorsel(morsel)">&nbsp;
@@ -1848,66 +1848,87 @@
 			<div class="row viewer-player ng-scope" data-ng-controller="viewerPlayer" data-ng-hide="isViewerLoading">
 				<!-- ngInclude: getPlayerPartialForCurrentMorsel() --><div data-ng-include="getPlayerPartialForCurrentMorsel()" class="ng-scope"><!-- Main player area -->
 <div class="col-xs-9 ng-scope">
-	<div data-player-loading-mask="" class="player-loading-mask"><div class="player-loading-overlay ng-hide" data-ng-show="isPlayerLoading" data-fade-out="200"><div class="player-loading-overlay-message"><img alt="Loading..." src="./game_old_files/b3OandPWsUWAnRVS5d8JS8OL0nu8dU2d3NceS7p1yKhPl9KD4EhqeylPm7yFbft5wmsA2VCAZ-8wAkmFduXJ=s0"></div></div><div data-ng-transclude="">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="scale-media">
+				<div data-reading-player="" data-markdown="textFrameContent" class="reading-area ng-scope"><div class="markdown-container ng-binding" data-ng-bind-html="compiledOutput"><h2>Reflect: Using diff to Find Bugs</h2>
 
-		<div class="row ng-scope">
-			<div class="col-xs-12">
-				<div class="scale-media">
-					<!-- Image Quiz Player -->
-					<div class="image-quiz-player quiz-only" data-ng-class="tidbitViewerMode" data-image-form-quiz=""><div class="background-image-safari-fix">
-	<img class="image-background" alt="" style="display:block;" data-ng-src="//lh3.ggpht.com/Xev1rWueMpBLrXLFpAZpQP92qP2K9ziZK12tidhcwwe_9B8JyZpv-qSsXepTpX_QXNdXzrCgekVxdMZJVsA=s889#w=1920&amp;h=1080" src="./game_old_files/Xev1rWueMpBLrXLFpAZpQP92qP2K9ziZK12tidhcwwe_9B8JyZpv-qSsXepTpX_QXNdXzrCgekVxdMZJVsA=s889">
-</div>
-<div class="quiz-video-player ng-scope" data-ng-controller="videoPlayer" data-quiz-video-player="" webkitallowfullscreen=""></div>
-<form class="image-quiz-form ng-valid ng-dirty">
-	<!-- ngRepeat: widget in getQuiz().widgets --><div data-ng-repeat="widget in getQuiz().widgets" data-ng-switch="" data-on="widget.model" class="image-form-quiz-widget ng-scope" data-quiz-widget="widget" style="top: 36.0934035476718%; left: 4.01145573566085%; width: 12.2194513715711%; height: 7.76053215077605%;">
-		<label class="sr-only ng-binding" for="text1"></label>
-		<!-- ngSwitchWhen: TextInputWidget --><div data-ng-switch-when="TextInputWidget" class="text-input-widget-holder ng-scope" data-ng-switch="" data-on="!!widget.text_area">
-			<!-- ngSwitchWhen: true -->
-			<!-- ngSwitchDefault:  --><input tabindex="1" id="text1" class="overlay-form-widget text-input-widget ng-scope ng-valid ng-dirty" data-ng-switch-default="" type="text" data-ng-model="answers[widget[&#39;marker&#39;]]">
-		</div>
-		<!-- ngSwitchWhen: CheckboxWidget -->
-		<!-- ngSwitchWhen: RadioButtonWidget -->
-		<!-- ngSwitchWhen: NumericInputWidget -->
-		<!-- ngSwitchWhen: MathInputWidget -->
-	</div><!-- end ngRepeat: widget in getQuiz().widgets -->
-</form>
-</div>
-				</div>
+<h3>Make sure you can access the command line</h3>
+
+<p>If you are on Windows, you’ll need to install some software in order to use a unix-like command line (different from the Windows built-in Command Prompt), as we mentioned previously.  For more info, <a href="https://www.udacity.com/wiki/ud775/command-line-instructions#windows-users" target="_blank">check out this page</a>.</p>
+
+<h3>Choose a text editor</h3>
+
+<p>As noted in the previous video, you should make sure to use a simple text editor like <a href="http://notepad-plus-plus.org/" target="_blank">Notepad++</a>, <a href="http://www.sublimetext.com/2" target="_blank">Sublime</a>,  <a href="https://atom.io/" target="_blank">Atom</a>, emacs, vim, etc. and <strong>not</strong> a rich-text editor like Microsoft Word or OpenOffice, so that you can easily look at your files' content on the command line.</p>
+
+<p>If you don’t have one that you like yet, Sublime is a good option that will work on Windows, Mac, and Linux. We have provided more detailed instructions for setting up Sublime than for other editors, and we use Sublime for all the examples in the course. You can download Sublime <a href="http://www.sublimetext.com/2" target="_blank">here</a>.</p>
+
+<h3>Make sure you can launch your editor from the command line</h3>
+
+<p>It will be helpful to be able to launch your text editor from the command line. See <a href="https://www.udacity.com/wiki/ud775/sublime" target="_blank">here</a> for instructions on how to do this for Sublime.  If you have trouble getting this working, videos at the end of the lesson called "Setting up Your Workspace on Windows" and "Setting Up Your Workspace on Mac" will demonstrate this process, so you can wait until then.</p>
+
+<h3>Set up your course workspace</h3>
+
+<p>Right now, you should create a <code>version-control</code> directory (a more computer-science-y term for “folder”) to hold all your files for this course in an easy to remember location, then create a <code>reflections</code> sub-directory, and within that, create a plain text file called <code>lesson_1_reflections.txt</code> for the questions from this lesson.</p>
+
+<p>You can do this by running the following commands in either Git Bash or the terminal (the bits after the # signs are comments, anything after those are not interpreted):</p>
+
+<pre>cd ~                          # change directories to your home directory
+mkdir version-control         # make version-control directory
+cd version-control            # go to version-control directory
+mkdir reflections             # create reflections directory
+cd reflections                # go to reflections directory
+subl lesson_1_reflections.txt # launch sublime with file called lesson_1_reflections.txt (you can replace subl with another editor here if you prefer a different one)
+</pre>
+
+<p>If you prefer, rather than creating the file from scratch, you could download the <code>lesson_1_reflections_prompts.txt</code> file from the Downloadables section, place it in the <code>reflections</code> directory and rename it, then add your response after the first prompt.</p>
+
+<p>Once you’ve saved your file, if you want to double-check that everything has gone as planned, try these commands:</p>
+
+<pre>pwd # print working directory - shows what directory you are in
+ls  # list the files in this directory
+</pre>
+
+<p>If you're having trouble getting this working, videos at the end of the lesson called "Setting up Your Workspace on Windows" and "Setting Up Your Workspace on Mac" will demonstrate parts of this process, so you might want to wait until then.  In the mean time, you can create the directories and file using your OS’s Graphical Interface for working with files (Finder, Windows Explorer, etc).  It's good to get some practice using the command line, though, since we'll be using it a lot in this course, so once you've watched the workspace instructions, make sure you can complete actions like this on the command line.</p>
+
+<p>You are also welcome to use a different naming scheme, but later in the course we will refer to this file structure and it will be up to you to translate to whatever naming scheme you chose instead!</p>
+
+<h3>Use short lines</h3>
+
+<p>Many command line tools, including Git, are less useful if your files contain very long lines.  For example, if you use <code>diff</code> to compare two files that have all their content on the same line, <code>diff</code> will only show you that the two files are different.  It will not be able to pinpoint the location of the difference for you.</p>
+
+<p>For this reason, it is a good idea to make sure you keep your lines reasonably short when writing your reflections (or other plain-text files).  The exact limit is a matter of personal preference.  Many developers use a max line length of 80 to 120 characters.  Some editors can automatically insert line breaks for you, but for others, like Sublime, you will need to remember to press enter when you want to create a new line.</p>
+
+<h3>Do the first reflection exercise</h3>
+
+<p>Populate <code>lesson_1_reflections.txt</code> with the following question and your thoughts on it:</p>
+
+<p><strong>How did viewing a diff between two versions of a file help you see the bug that was introduced?</strong></p>
+
+<p>When you've created your document, written down your thoughts, and saved the file, click "Next" to learn about some systems that can help you create these versions of your files.</p></div></div>
 			</div>
 		</div>
+	</div>
 
-		<!-- Action Buttons -->
-		<div class="row ng-scope" data-ng-controller="imageQuizPanel">
-			<div class="col-xs-12 text-right">
-				<div class="viewer-button-bar">
-					<button class="btn btn-default" tabindex="1000" data-ng-show="morsel.containingExercise[&#39;lecture_ref&#39;]" data-ng-click="goToMorsel(morsel.containingExercise[&#39;lecture_ref&#39;])">
-						<span data-ng-show="morsel.containingExercise[&#39;lecture_ref&#39;].completed" class="">
-							Review
-						</span>
-						<span data-ng-hide="morsel.containingExercise[&#39;lecture_ref&#39;].completed" class="ng-hide">
-							View
-						</span>
-						Instructions
-					</button>
-					<!-- Once the quiz has been correctly answered, change the submit button to continue to answer so they can easily advance -->
-					<button class="btn btn-default ng-hide" tabindex="1005" data-ng-show="attempts&gt;0 &amp;&amp; !morsel.completed &amp;&amp; morsel.containingExercise[&#39;answer_ref&#39;]" data-ng-click="goToMorsel(morsel.containingExercise[&#39;answer_ref&#39;])">View Answer</button>
+	<!-- Action buttons -->
+	<div class="row">
+		<div class="col-xs-12 text-right">
+			<div class="viewer-button-bar">
+				<span data-ng-hide="morsel.containingExercise" class="">
+					<button class="btn btn-default" tabindex="1000" data-ng-click="goToPreviousMorsel()">Previous</button>
+					<button class="btn btn-default" tabindex="1005" data-ng-click="goToNextMorsel()">Next</button>
+				</span>
 
-					<!-- TEST SKIP BUTTON! -->
-					<button class="btn btn-default ng-hide" tabindex="1007" data-ng-show="attempts&gt;0 &amp;&amp; !morsel.completed &amp;&amp; !morsel.containingExercise[&#39;answer_ref&#39;] &amp;&amp; skipButtonTrial===&#39;attempt-1&#39;" data-ng-click="goToNextMorsel()">Skip</button>
-					<button class="btn btn-default ng-hide" tabindex="1007" data-ng-show="attempts&gt;1 &amp;&amp; !morsel.completed &amp;&amp; !morsel.containingExercise[&#39;answer_ref&#39;] &amp;&amp; skipButtonTrial===&#39;attempt-2&#39;" data-ng-click="goToNextMorsel()">Skip</button>
-					<!-- END TEST SKIP BUTTONS -->
-
-					<button class="btn btn-default ng-binding btn-primary" tabindex="1010" data-ng-click="submitQuiz()" data-ng-class="{ &#39;btn-primary&#39;: !morsel.completed }" data-ng-disabled="status == &#39;processing&#39;">Submit Answer</button>
-					<button class="btn btn-primary ng-hide" tabindex="1015" data-ng-show="morsel.completed &amp;&amp; morsel.containingExercise[&#39;answer_ref&#39;]" data-ng-click="goToMorsel(morsel.containingExercise[&#39;answer_ref&#39;])">Continue to Answer</button>
-					<button class="btn btn-primary ng-hide" tabindex="1020" data-ng-show="morsel.completed &amp;&amp; !morsel.containingExercise[&#39;answer_ref&#39;]" data-ng-click="goToNextMorsel()">Continue</button>
-				</div>
+				<button class="btn btn-primary ng-hide" tabindex="1010" data-ng-show="morsel.key == morsel.containingExercise[&#39;lecture_ref&#39;].key" data-ng-click="goToMorsel(morsel.containingExercise[&#39;quiz_ref&#39;])">Continue to Quiz</button>
+				<button class="btn btn-default ng-hide" tabindex="1015" data-ng-show="morsel.key == morsel.containingExercise[&#39;answer_ref&#39;].key" data-ng-click="goToMorsel(morsel.containingExercise[&#39;quiz_ref&#39;])">Back to Quiz</button>
+				<button class="btn btn-primary ng-hide" tabindex="1020" data-ng-show="morsel.key == morsel.containingExercise[&#39;answer_ref&#39;].key" data-ng-click="goToNextMorsel()">Continue</button>
 			</div>
 		</div>
-	</div></div>
+	</div>
 
 	<!-- Instructor Notes and Downloadables-->
 	<div class="row">
-	 	<div class="col-xs-8"><div data-instructor-notes="" class="ng-scope"><div class="row">
+		<div class="col-xs-8"><div data-instructor-notes="" class="ng-scope"><div class="row">
 	<div class="col-xs-12">
 		<div class="row">
 			<div class="col-xs-12">
@@ -1916,16 +1937,9 @@
 		</div>
 		<!-- ngIf: canEdit -->
 		<div class="row">
-			<div class="col-xs-12 ng-scope" data-markdown="morsel[&#39;owner_comments&#39;]" data-mathquill="" data-watch="morsel[&#39;owner_comments&#39;]" data-target=".mathquill" data-placeholder="No additional notes for this section"><div class="markdown-container ng-binding" data-ng-bind-html="compiledOutput"><h3>Downloading the old and new versions of the file</h3>
+			<div class="col-xs-12 ng-scope" data-markdown="morsel[&#39;owner_comments&#39;]" data-mathquill="" data-watch="morsel[&#39;owner_comments&#39;]" data-target=".mathquill" data-placeholder="No additional notes for this section"><div class="markdown-container ng-binding" data-ng-bind-html="compiledOutput"><p>Like Sarah said, there is a lot of research out there on reflection.  If you want a quick intro with some neat graphics, check out <a href="https://sites.google.com/site/reflection4learning/why-reflect" target="_blank">this site</a>.</p>
 
-<p>You can get the two versions of the <code>game.js</code> file in the Downloadables section on this page.  Here's how to get them on to your computer:</p>
-
-<ul>
-<li>Click on the file you want in the <strong>Downloadables</strong> section</li>
-<li>In the new tab that opens, right click and choose <strong>Save As</strong></li>
-</ul>
-
-<p>Make sure to take note of where you download them!</p></div></div>
+<p>For a more in-depth look, check out <a href="http://184.182.233.150/rid=1LW06D9V6-26428MK-1Z64/Mezirow's%20chapter,%20How%20Critical%20Refletion%20Triggers%20TL.pdf" target="_blank">this seminal 20-page paper</a> on the topic.</p></div></div>
 		</div>
 	</div>
 </div>
@@ -1954,29 +1968,11 @@
 </div>
 			<!-- ngRepeat: material in morsel['supplemental_media'] --><div data-ng-repeat="material in morsel[&#39;supplemental_media&#39;]" data-supplemental-material-item="material" data-premium-access="premiumAccess" class="ng-scope ng-isolate-scope"><!-- ngIf: isReady() --><div class="row row-gap-small clickable ng-scope" data-ng-if="isReady()" data-ng-click="openDownloadUrlOrDisplayUpsellModal()">
 	<div class="col-xs-10 ng-binding" data-ng-class="{&#39;text-muted&#39;: !isAccessAllowed()}">
-		game_old
+		lesson_1_reflection_prompts
 	</div>
 	<div class="col-xs-2 text-right">
-		<img data-ng-show="isAccessAllowed()" src="./game_old_files/hJcAFWEZUQKz9x8A-YT6-mH-vKd4PH4uOwqbmCoahSUAYdyXAN2IvutaPD80jrRa9AGuG4AFJ0QAajpeUEs=s15" alt="download this material" class="">
-		<img data-ng-hide="isAccessAllowed()" src="./game_old_files/gOt1oNZq53r48qoFKHib0ZzlB4UM5iEnAU2AhcVkOjuWx5fdjXr9-cbJ8gTs6pQ0_JRREsVaMFT88rR-uA=s15" alt="subscribe to access this extra material" class="ng-hide">
-	</div>
-</div><!-- end ngIf: isReady() -->
-</div><!-- end ngRepeat: material in morsel['supplemental_media'] --><div data-ng-repeat="material in morsel[&#39;supplemental_media&#39;]" data-supplemental-material-item="material" data-premium-access="premiumAccess" class="ng-scope ng-isolate-scope"><!-- ngIf: isReady() --><div class="row row-gap-small clickable ng-scope" data-ng-if="isReady()" data-ng-click="openDownloadUrlOrDisplayUpsellModal()">
-	<div class="col-xs-10 ng-binding" data-ng-class="{&#39;text-muted&#39;: !isAccessAllowed()}">
-		game_new
-	</div>
-	<div class="col-xs-2 text-right">
-		<img data-ng-show="isAccessAllowed()" src="./game_old_files/hJcAFWEZUQKz9x8A-YT6-mH-vKd4PH4uOwqbmCoahSUAYdyXAN2IvutaPD80jrRa9AGuG4AFJ0QAajpeUEs=s15" alt="download this material" class="">
-		<img data-ng-hide="isAccessAllowed()" src="./game_old_files/gOt1oNZq53r48qoFKHib0ZzlB4UM5iEnAU2AhcVkOjuWx5fdjXr9-cbJ8gTs6pQ0_JRREsVaMFT88rR-uA=s15" alt="subscribe to access this extra material" class="ng-hide">
-	</div>
-</div><!-- end ngIf: isReady() -->
-</div><!-- end ngRepeat: material in morsel['supplemental_media'] --><div data-ng-repeat="material in morsel[&#39;supplemental_media&#39;]" data-supplemental-material-item="material" data-premium-access="premiumAccess" class="ng-scope ng-isolate-scope"><!-- ngIf: isReady() --><div class="row row-gap-small clickable ng-scope" data-ng-if="isReady()" data-ng-click="openDownloadUrlOrDisplayUpsellModal()">
-	<div class="col-xs-10 ng-binding" data-ng-class="{&#39;text-muted&#39;: !isAccessAllowed()}">
-		LICENSE
-	</div>
-	<div class="col-xs-2 text-right">
-		<img data-ng-show="isAccessAllowed()" src="./game_old_files/hJcAFWEZUQKz9x8A-YT6-mH-vKd4PH4uOwqbmCoahSUAYdyXAN2IvutaPD80jrRa9AGuG4AFJ0QAajpeUEs=s15" alt="download this material" class="">
-		<img data-ng-hide="isAccessAllowed()" src="./game_old_files/gOt1oNZq53r48qoFKHib0ZzlB4UM5iEnAU2AhcVkOjuWx5fdjXr9-cbJ8gTs6pQ0_JRREsVaMFT88rR-uA=s15" alt="subscribe to access this extra material" class="ng-hide">
+		<img data-ng-show="isAccessAllowed()" src="./lesson_1_files/hJcAFWEZUQKz9x8A-YT6-mH-vKd4PH4uOwqbmCoahSUAYdyXAN2IvutaPD80jrRa9AGuG4AFJ0QAajpeUEs=s15" alt="download this material" class="">
+		<img data-ng-hide="isAccessAllowed()" src="./lesson_1_files/gOt1oNZq53r48qoFKHib0ZzlB4UM5iEnAU2AhcVkOjuWx5fdjXr9-cbJ8gTs6pQ0_JRREsVaMFT88rR-uA=s15" alt="subscribe to access this extra material" class="ng-hide">
 	</div>
 </div><!-- end ngIf: isReady() -->
 </div><!-- end ngRepeat: material in morsel['supplemental_media'] -->
@@ -1994,8 +1990,8 @@
 		Videos
 	</div>
 	<div class="col-xs-2 text-right">
-		<img data-ng-show="isAccessAllowed()" src="./game_old_files/hJcAFWEZUQKz9x8A-YT6-mH-vKd4PH4uOwqbmCoahSUAYdyXAN2IvutaPD80jrRa9AGuG4AFJ0QAajpeUEs=s15" alt="download this material" class="">
-		<img data-ng-hide="isAccessAllowed()" src="./game_old_files/gOt1oNZq53r48qoFKHib0ZzlB4UM5iEnAU2AhcVkOjuWx5fdjXr9-cbJ8gTs6pQ0_JRREsVaMFT88rR-uA=s15" alt="subscribe to access this extra material" class="ng-hide">
+		<img data-ng-show="isAccessAllowed()" src="./lesson_1_files/hJcAFWEZUQKz9x8A-YT6-mH-vKd4PH4uOwqbmCoahSUAYdyXAN2IvutaPD80jrRa9AGuG4AFJ0QAajpeUEs=s15" alt="download this material" class="">
+		<img data-ng-hide="isAccessAllowed()" src="./lesson_1_files/gOt1oNZq53r48qoFKHib0ZzlB4UM5iEnAU2AhcVkOjuWx5fdjXr9-cbJ8gTs6pQ0_JRREsVaMFT88rR-uA=s15" alt="subscribe to access this extra material" class="ng-hide">
 	</div>
 </div><!-- end ngIf: isReady() -->
 </div>
@@ -2004,8 +2000,8 @@
 		Transcripts
 	</div>
 	<div class="col-xs-2 text-right">
-		<img data-ng-show="isAccessAllowed()" src="./game_old_files/hJcAFWEZUQKz9x8A-YT6-mH-vKd4PH4uOwqbmCoahSUAYdyXAN2IvutaPD80jrRa9AGuG4AFJ0QAajpeUEs=s15" alt="download this material" class="">
-		<img data-ng-hide="isAccessAllowed()" src="./game_old_files/gOt1oNZq53r48qoFKHib0ZzlB4UM5iEnAU2AhcVkOjuWx5fdjXr9-cbJ8gTs6pQ0_JRREsVaMFT88rR-uA=s15" alt="subscribe to access this extra material" class="ng-hide">
+		<img data-ng-show="isAccessAllowed()" src="./lesson_1_files/hJcAFWEZUQKz9x8A-YT6-mH-vKd4PH4uOwqbmCoahSUAYdyXAN2IvutaPD80jrRa9AGuG4AFJ0QAajpeUEs=s15" alt="download this material" class="">
+		<img data-ng-hide="isAccessAllowed()" src="./lesson_1_files/gOt1oNZq53r48qoFKHib0ZzlB4UM5iEnAU2AhcVkOjuWx5fdjXr9-cbJ8gTs6pQ0_JRREsVaMFT88rR-uA=s15" alt="subscribe to access this extra material" class="ng-hide">
 	</div>
 </div><!-- end ngIf: isReady() -->
 </div>
@@ -2016,7 +2012,7 @@
 	<!-- Guided tour info -->
 	<div class="placard-medium ng-scope" data-guided-tour-placard="downloadables-introduction" style="z-index: 10001; position: relative;"><div class="guided-tour-placard-container" data-ng-class="{&#39;guided-tour-placard-container-current&#39;: show}"><div class="guided-tour-placard">
 		<div class="text-center ng-scope">
-			<img src="./game_old_files/Gw5YfKdYN_FfThHdCrdYLv8Wwr_xSWy7jD97DUokT_6wmT-N3fE9gcbSEqKdj1JEKfuFmDMkVnA3NOsVKCU=s0">
+			<img src="./lesson_1_files/Gw5YfKdYN_FfThHdCrdYLv8Wwr_xSWy7jD97DUokT_6wmT-N3fE9gcbSEqKdj1JEKfuFmDMkVnA3NOsVKCU=s0">
 		</div>
 		<div class="ng-scope">
 			<strong>
@@ -2036,26 +2032,11 @@
 </div>
 
 <!-- Player sidebar -->
-<div class="col-xs-3 ng-scope" data-ng-controller="imageQuizPanel">
-	<div class="row row-gap-small">
-		<div class="col-xs-12">
-			<!-- Quiz Feedback with Animations -->
-			<!-- ngIf: quizReturn.status=='correct' -->
-			<h3 class="text-danger-color h-slim ng-hide" data-ng-show="quizReturn.status==&#39;incorrect&#39;">
-				<span class="glyphicon glyphicon-refresh animate animate-rotate-in"></span>
-				Try again!
-			</h3>
-			<h3 class="text-danger-color h-slim ng-hide" data-ng-show="quizReturn.status==&#39;error&#39;">
-				<span class="glyphicon glyphicon-exclamation-sign animate animate-bounce-in"></span>
-				Error!
-			</h3>
-			<div class="player-short-ret-text animate animate-fade-in ng-scope ng-hide" data-ng-show="quizReturn.text" data-markdown="quizReturn.text" data-mathquill="" data-watch="quizReturn.text" data-target=".mathquill"><div class="markdown-container ng-binding" data-ng-bind-html="compiledOutput"></div></div>
-		</div>
-	</div>
-
+<div class="col-xs-3 ng-scope">
+	<!-- For consistency with other side panels -->
+	<div class="row row-gap-small"></div>
 	<!-- Upsell -->
 	<div data-side-panel-upsell=""><!-- ngIf: showBanner --></div>
-
 	<!-- Discussions -->
 	<div data-viewer-discussions="" data-num-per-page="5"><!-- only show when course exists to enable c-none to be used -->
 <!-- Mr Torque rages: THIS IS NOT AN IDEAL USER EXPERIENCE AND SHOULD BE FIXED BY SINGLE PAGE APP! -->
@@ -2086,63 +2067,63 @@
 		<div data-ng-hide="limitedAccess || isNanodegreeAssociatedCourse || isNanodegree || isPaidCourse" class="">
 			<!-- ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
 				<small data-ng-class="{&#39;important-discussion&#39;: post.important}">
-					<a data-ng-href="http://forums.udacity.com/questions/100287970/dissimilar-output-using-the-same-code#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100287970/dissimilar-output-using-the-same-code#ud775">Dissimilar output using the same code.</a>
+					<a data-ng-href="http://forums.udacity.com/questions/100288994/powershell-method-to-compare-two-files-windows#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100288994/powershell-method-to-compare-two-files-windows#ud775">PowerShell method to compare two files (Windows)</a>
 				</small>
 				<small class="text-disabled ng-binding">2d ago</small>
 			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
 				<small data-ng-class="{&#39;important-discussion&#39;: post.important}">
-					<a data-ng-href="http://forums.udacity.com/questions/100268369/what-program-are-you-using#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100268369/what-program-are-you-using#ud775">What program are you using...</a>
+					<a data-ng-href="http://forums.udacity.com/questions/100227514/git-bash-sublime-text-2-windows#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100227514/git-bash-sublime-text-2-windows#ud775">Git bash sublime text 2 windows</a>
 				</small>
-				<small class="text-disabled ng-binding">Mar 3</small>
+				<small class="text-disabled ng-binding">Mar 4</small>
 			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
 				<small data-ng-class="{&#39;important-discussion&#39;: post.important}">
-					<a data-ng-href="http://forums.udacity.com/questions/100265189/my-command-prompt-has-a-different-interface#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100265189/my-command-prompt-has-a-different-interface#ud775">My command prompt has a different interface</a>
+					<a data-ng-href="http://forums.udacity.com/questions/100266632/git-bash-showing-problem-to-modify-the-shortcut-please-help#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100266632/git-bash-showing-problem-to-modify-the-shortcut-please-help#ud775">"git bash" showing problem to modify the shortcut ,please help!</a>
+				</small>
+				<small class="text-disabled ng-binding">Feb 28</small>
+			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
+				<small data-ng-class="{&#39;important-discussion&#39;: post.important}">
+					<a data-ng-href="http://forums.udacity.com/questions/100265724/solution-to-gep-subl-open-on-terminal#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100265724/solution-to-gep-subl-open-on-terminal#ud775">SOlution to gep subl open on terminal</a>
 				</small>
 				<small class="text-disabled ng-binding">Feb 20</small>
 			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
 				<small data-ng-class="{&#39;important-discussion&#39;: post.important}">
-					<a data-ng-href="http://forums.udacity.com/questions/100264036/file-compare#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100264036/file-compare#ud775">File Compare</a>
+					<a data-ng-href="http://forums.udacity.com/questions/100264939/escape-the-space-between-file-name-along-with-special-characters-in-git-bash-for-windows#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100264939/escape-the-space-between-file-name-along-with-special-characters-in-git-bash-for-windows#ud775">Escape the space between file name along with special characters in Git Bash for Windows.</a>
 				</small>
-				<small class="text-disabled ng-binding">Feb 16</small>
-			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
-				<small data-ng-class="{&#39;important-discussion&#39;: post.important}">
-					<a data-ng-href="http://forums.udacity.com/questions/100258905/when-i-run-this-absolutely-nothing-happens#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100258905/when-i-run-this-absolutely-nothing-happens#ud775">When I run this, absolutely nothing happens</a>
-				</small>
-				<small class="text-disabled ng-binding">Feb 9</small>
+				<small class="text-disabled ng-binding">Feb 19</small>
 			</p><!-- end ngRepeat: post in posts -->
 			<p data-ng-show="posts.length == 0" class="ng-hide">
 				<small>No discussions for this part of the lesson yet!</small>
 			</p>
-			<a class="btn btn-default" data-ng-href="http://forums.udacity.com/questions/ask/?tag=2960778927#ud775" href="http://forums.udacity.com/questions/ask/?tag=2960778927#ud775">Start a Discussion</a>
+			<a class="btn btn-default" data-ng-href="http://forums.udacity.com/questions/ask/?tag=2997518619#ud775" href="http://forums.udacity.com/questions/ask/?tag=2997518619#ud775">Start a Discussion</a>
 		</div>
 
 		<!-- For Udacity Students in paid courses (using Discourse) -->
 		<div data-ng-show="isPaidCourse" class="ng-hide">
 			<!-- ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
 				<small data-ng-class="{&#39;important-discussion&#39;: post.important}" data-ng-show="post.important" class="ng-hide">
-					<a data-ng-href="http://forums.udacity.com/questions/100287970/dissimilar-output-using-the-same-code#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100287970/dissimilar-output-using-the-same-code#ud775">Dissimilar output using the same code.</a>
+					<a data-ng-href="http://forums.udacity.com/questions/100288994/powershell-method-to-compare-two-files-windows#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100288994/powershell-method-to-compare-two-files-windows#ud775">PowerShell method to compare two files (Windows)</a>
 				</small>
 				<small class="text-disabled ng-binding ng-hide" data-ng-show="post.important">2d ago</small>
 			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
 				<small data-ng-class="{&#39;important-discussion&#39;: post.important}" data-ng-show="post.important" class="ng-hide">
-					<a data-ng-href="http://forums.udacity.com/questions/100268369/what-program-are-you-using#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100268369/what-program-are-you-using#ud775">What program are you using...</a>
+					<a data-ng-href="http://forums.udacity.com/questions/100227514/git-bash-sublime-text-2-windows#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100227514/git-bash-sublime-text-2-windows#ud775">Git bash sublime text 2 windows</a>
 				</small>
-				<small class="text-disabled ng-binding ng-hide" data-ng-show="post.important">Mar 3</small>
+				<small class="text-disabled ng-binding ng-hide" data-ng-show="post.important">Mar 4</small>
 			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
 				<small data-ng-class="{&#39;important-discussion&#39;: post.important}" data-ng-show="post.important" class="ng-hide">
-					<a data-ng-href="http://forums.udacity.com/questions/100265189/my-command-prompt-has-a-different-interface#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100265189/my-command-prompt-has-a-different-interface#ud775">My command prompt has a different interface</a>
+					<a data-ng-href="http://forums.udacity.com/questions/100266632/git-bash-showing-problem-to-modify-the-shortcut-please-help#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100266632/git-bash-showing-problem-to-modify-the-shortcut-please-help#ud775">"git bash" showing problem to modify the shortcut ,please help!</a>
+				</small>
+				<small class="text-disabled ng-binding ng-hide" data-ng-show="post.important">Feb 28</small>
+			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
+				<small data-ng-class="{&#39;important-discussion&#39;: post.important}" data-ng-show="post.important" class="ng-hide">
+					<a data-ng-href="http://forums.udacity.com/questions/100265724/solution-to-gep-subl-open-on-terminal#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100265724/solution-to-gep-subl-open-on-terminal#ud775">SOlution to gep subl open on terminal</a>
 				</small>
 				<small class="text-disabled ng-binding ng-hide" data-ng-show="post.important">Feb 20</small>
 			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
 				<small data-ng-class="{&#39;important-discussion&#39;: post.important}" data-ng-show="post.important" class="ng-hide">
-					<a data-ng-href="http://forums.udacity.com/questions/100264036/file-compare#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100264036/file-compare#ud775">File Compare</a>
+					<a data-ng-href="http://forums.udacity.com/questions/100264939/escape-the-space-between-file-name-along-with-special-characters-in-git-bash-for-windows#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100264939/escape-the-space-between-file-name-along-with-special-characters-in-git-bash-for-windows#ud775">Escape the space between file name along with special characters in Git Bash for Windows.</a>
 				</small>
-				<small class="text-disabled ng-binding ng-hide" data-ng-show="post.important">Feb 16</small>
-			</p><!-- end ngRepeat: post in posts --><p data-ng-repeat="post in posts" class="ng-scope">
-				<small data-ng-class="{&#39;important-discussion&#39;: post.important}" data-ng-show="post.important" class="ng-hide">
-					<a data-ng-href="http://forums.udacity.com/questions/100258905/when-i-run-this-absolutely-nothing-happens#ud775" target="_blank" class="ng-binding" href="http://forums.udacity.com/questions/100258905/when-i-run-this-absolutely-nothing-happens#ud775">When I run this, absolutely nothing happens</a>
-				</small>
-				<small class="text-disabled ng-binding ng-hide" data-ng-show="post.important">Feb 9</small>
+				<small class="text-disabled ng-binding ng-hide" data-ng-show="post.important">Feb 19</small>
 			</p><!-- end ngRepeat: post in posts -->
 			<p>
 				<a data-ng-href="http://forums.udacity.com/tags/ud775/#ud775" target="_blank" href="http://forums.udacity.com/tags/ud775/#ud775">Discussion Topics</a>
@@ -2182,7 +2163,7 @@
 				<textarea class="form-control ng-pristine ng-valid" id="feedback-explanation" data-ng-model="form.feedbackExplanation.value"></textarea>
 			</div>
 			<div class="hidden-xs col-sm-2">
-				<img class="img-responsive" data-ng-src="//lh6.ggpht.com/pKx-eRzHw9M9hv8Fiejxj5GkUYQRfbzXe9sHndvm8gps3wEU46A-s4JzRn1rJOWlspwb1_YGpvqmQUNvnNwz=s140#w=494&amp;h=1061" alt="Sad robot" src="./game_old_files/pKx-eRzHw9M9hv8Fiejxj5GkUYQRfbzXe9sHndvm8gps3wEU46A-s4JzRn1rJOWlspwb1_YGpvqmQUNvnNwz=s140">
+				<img class="img-responsive" data-ng-src="//lh6.ggpht.com/pKx-eRzHw9M9hv8Fiejxj5GkUYQRfbzXe9sHndvm8gps3wEU46A-s4JzRn1rJOWlspwb1_YGpvqmQUNvnNwz=s140#w=494&amp;h=1061" alt="Sad robot" src="./lesson_1_files/pKx-eRzHw9M9hv8Fiejxj5GkUYQRfbzXe9sHndvm8gps3wEU46A-s4JzRn1rJOWlspwb1_YGpvqmQUNvnNwz=s140">
 			</div>
 		</div>
 	</div>
@@ -2850,7 +2831,7 @@
 								<div class="row-gap-medium">
 									<div class="col-xs-12">
 										<div class="text-center">
-												<img src="./game_old_files/profane_graphic.svg" width="110" height="60" alt="Magnifying glass finding swearing in text">
+												<img src="./lesson_1_files/profane_graphic.svg" width="110" height="60" alt="Magnifying glass finding swearing in text">
 										</div>
 									</div>
 								</div>
@@ -3050,10 +3031,10 @@
 		<div class="col-xs-12">
 			<div class="text-center-xs">
 				<a href="https://itunes.apple.com/us/app/id819700933?mt=8">
-					<img alt="Apple store" class="img-initial mobile-button" src="./game_old_files/5mY-J8xINNmZ4x_6mbNYmhDWFT_qzG4q4QA2jPzRfiqRjUticf5u0eEEATtX04gbr_KrDSx8SDDBpGRHAWU=s150" srcset="//lh6.ggpht.com/5mY-J8xINNmZ4x_6mbNYmhDWFT_qzG4q4QA2jPzRfiqRjUticf5u0eEEATtX04gbr_KrDSx8SDDBpGRHAWU=s300#w=300&amp;h=88 2x">
+					<img alt="Apple store" class="img-initial mobile-button" src="./lesson_1_files/5mY-J8xINNmZ4x_6mbNYmhDWFT_qzG4q4QA2jPzRfiqRjUticf5u0eEEATtX04gbr_KrDSx8SDDBpGRHAWU=s150" srcset="//lh6.ggpht.com/5mY-J8xINNmZ4x_6mbNYmhDWFT_qzG4q4QA2jPzRfiqRjUticf5u0eEEATtX04gbr_KrDSx8SDDBpGRHAWU=s300#w=300&amp;h=88 2x">
 				</a>
 				<a href="https://play.google.com/store/apps/details?id=com.udacity.android">
-					<img alt="Google Play" class="mobile-button" src="./game_old_files/Zb2s5Ho_mzDPnb9dBDIqQPpwFrxz1e902ksTnir8Cs_KdrYLvN_TLVK1pmKGbMPgolJ2wIlY23yI9OODDss=s150" srcset="//lh5.ggpht.com/Zb2s5Ho_mzDPnb9dBDIqQPpwFrxz1e902ksTnir8Cs_KdrYLvN_TLVK1pmKGbMPgolJ2wIlY23yI9OODDss=s300#w=300&amp;h=88 2x">
+					<img alt="Google Play" class="mobile-button" src="./lesson_1_files/Zb2s5Ho_mzDPnb9dBDIqQPpwFrxz1e902ksTnir8Cs_KdrYLvN_TLVK1pmKGbMPgolJ2wIlY23yI9OODDss=s150" srcset="//lh5.ggpht.com/Zb2s5Ho_mzDPnb9dBDIqQPpwFrxz1e902ksTnir8Cs_KdrYLvN_TLVK1pmKGbMPgolJ2wIlY23yI9OODDss=s300#w=300&amp;h=88 2x">
 				</a>
 			</div>
 		</div>
@@ -3130,10 +3111,10 @@
 		<div class="col-xs-12">
 			<div class="text-center-xs">
 				<a href="https://itunes.apple.com/us/app/id819700933?mt=8">
-					<img alt="Apple store" class="img-initial mobile-button" src="./game_old_files/5mY-J8xINNmZ4x_6mbNYmhDWFT_qzG4q4QA2jPzRfiqRjUticf5u0eEEATtX04gbr_KrDSx8SDDBpGRHAWU=s150" srcset="//lh6.ggpht.com/5mY-J8xINNmZ4x_6mbNYmhDWFT_qzG4q4QA2jPzRfiqRjUticf5u0eEEATtX04gbr_KrDSx8SDDBpGRHAWU=s300#w=300&amp;h=88 2x">
+					<img alt="Apple store" class="img-initial mobile-button" src="./lesson_1_files/5mY-J8xINNmZ4x_6mbNYmhDWFT_qzG4q4QA2jPzRfiqRjUticf5u0eEEATtX04gbr_KrDSx8SDDBpGRHAWU=s150" srcset="//lh6.ggpht.com/5mY-J8xINNmZ4x_6mbNYmhDWFT_qzG4q4QA2jPzRfiqRjUticf5u0eEEATtX04gbr_KrDSx8SDDBpGRHAWU=s300#w=300&amp;h=88 2x">
 				</a>
 				<a href="https://play.google.com/store/apps/details?id=com.udacity.android">
-					<img alt="Google Play" class="mobile-button" src="./game_old_files/Zb2s5Ho_mzDPnb9dBDIqQPpwFrxz1e902ksTnir8Cs_KdrYLvN_TLVK1pmKGbMPgolJ2wIlY23yI9OODDss=s150" srcset="//lh5.ggpht.com/Zb2s5Ho_mzDPnb9dBDIqQPpwFrxz1e902ksTnir8Cs_KdrYLvN_TLVK1pmKGbMPgolJ2wIlY23yI9OODDss=s300#w=300&amp;h=88 2x">
+					<img alt="Google Play" class="mobile-button" src="./lesson_1_files/Zb2s5Ho_mzDPnb9dBDIqQPpwFrxz1e902ksTnir8Cs_KdrYLvN_TLVK1pmKGbMPgolJ2wIlY23yI9OODDss=s150" srcset="//lh5.ggpht.com/Zb2s5Ho_mzDPnb9dBDIqQPpwFrxz1e902ksTnir8Cs_KdrYLvN_TLVK1pmKGbMPgolJ2wIlY23yI9OODDss=s300#w=300&amp;h=88 2x">
 				</a>
 			</div>
 		</div>
@@ -3189,7 +3170,7 @@
 		})();
 	</script>
 
-		<script src="./game_old_files/angular.min.js"></script>
+		<script src="./lesson_1_files/angular.min.js"></script>
 		<script type="text/javascript">
 			if (typeof angular === 'undefined') {
 				document.write(unescape("%3Cscript src='/media/js/standalone/libs/angular/angular.min.js'%3E%3C/script%3E"));
@@ -3197,8 +3178,8 @@
 		</script>
 
 	
-		<script type="text/javascript" src="./game_old_files/libs.min.js"></script>
-<script type="text/javascript" src="./game_old_files/udacity.min.js"></script>
+		<script type="text/javascript" src="./lesson_1_files/libs.min.js"></script>
+<script type="text/javascript" src="./lesson_1_files/udacity.min.js"></script>
 
 	
 
@@ -3210,8 +3191,8 @@
 		angular.module('embedded').constant('examMode', false);
 		angular.module('embedded').constant('canEditNotes', false);
 	</script>
-		<script type="text/javascript" src="./game_old_files/chat_libs.min.js"></script>
-		<script type="text/javascript" src="./game_old_files/chat.min.js"></script>
+		<script type="text/javascript" src="./lesson_1_files/chat_libs.min.js"></script>
+		<script type="text/javascript" src="./lesson_1_files/chat.min.js"></script>
 
 
 	<script type="text/javascript">
@@ -3253,7 +3234,7 @@
 			var google_remarketing_only = true;
 			/* ]]> */
 		</script>
-		<script type="text/javascript" src="./game_old_files/conversion.js"></script>
+		<script type="text/javascript" src="./lesson_1_files/conversion.js"></script>
 		<noscript>
 			&lt;div style="display:inline;"&gt;
 				&lt;img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/967079204/?value=0&amp;amp;label=JSWsCKSChgUQpOqRzQM&amp;amp;guid=ON&amp;amp;script=0"/&gt;
@@ -3287,4 +3268,4 @@
 	</script>
 
 
-</div><script type="text/javascript" id="" src="./game_old_files/ld.js"></script><script type="text/javascript" id="">(function(){function b(){!1===c&&(c=!0,Munchkin.init("613-WEZ-439",{cookieAnon:!0}))}var c=!1,a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="//munchkin.marketo.net/munchkin.js";a.onreadystatechange=function(){"complete"!=this.readyState&&"loaded"!=this.readyState||b()};a.onload=b;document.getElementsByTagName("head")[0].appendChild(a)})();</script><link rel="stylesheet" type="text/css" href="./game_old_files/fonts.css" media="print"><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./game_old_files/6Dg4oLkBbYq.html" style="border: none;"></iframe></div></div></div><script type="text/javascript" id="">google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097816')&&google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097817')&&window.Munchkin&&window.Munchkin.munchkinFunction(window.Munchkin.ASSOCIATE_LEAD,{Email:google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097818'),udacityAccountId:google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097819'),udacity_account_id:google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097820')},google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097821'));</script><span style="height: 20px; width: 40px; min-height: 20px; min-width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; top: 206px; left: 433px; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=);"></span></body></html>
+</div><script type="text/javascript" id="" src="./lesson_1_files/ld.js"></script><script type="text/javascript" id="">(function(){function b(){!1===c&&(c=!0,Munchkin.init("613-WEZ-439",{cookieAnon:!0}))}var c=!1,a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="//munchkin.marketo.net/munchkin.js";a.onreadystatechange=function(){"complete"!=this.readyState&&"loaded"!=this.readyState||b()};a.onload=b;document.getElementsByTagName("head")[0].appendChild(a)})();</script><link rel="stylesheet" type="text/css" href="./lesson_1_files/fonts.css" media="print"><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./lesson_1_files/6Dg4oLkBbYq.html" style="border: none;"></iframe></div></div></div><script type="text/javascript" id="">google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097816')&&google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097817')&&window.Munchkin&&window.Munchkin.munchkinFunction(window.Munchkin.ASSOCIATE_LEAD,{Email:google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097818'),udacityAccountId:google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097819'),udacity_account_id:google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097820')},google_tag_manager["GTM-NKKCFH"].macro('gtm1426505097821'));</script><span style="height: 20px; width: 40px; min-height: 20px; min-width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; top: 206px; left: 433px; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=);"></span></body></html>
